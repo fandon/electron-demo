@@ -10,6 +10,7 @@ function createWindow(){
         width: 800, 
         height: 600,
         title: 'myapp',
+        resizable: true,
         icon: __dirname+'/assets/images/icon.png',
     })
 
